@@ -4,105 +4,221 @@ date: "2017-05-28T22:40:32.169Z"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+4 фард-ракаата (про себя)
 
-## On deer horse aboard tritely yikes and much
+### 1 шаг
+По окончании азана как читавший, так и слышавший его произносят «салават» и, воздев руки на уровень груди, обращаются ко Всевышнему с молитвой, традиционно читаемой после азана:
+*«Аллаахумма, рабба хаазихи дда‘вати ттааммати ва ссаляятиль-кааима. Ээти мухаммаданиль-васийлята валь-фадыиля, ваб‘асху макааман махмуудан эллязии ва‘адтахь, варзукнаа шафа‘атаху явмаль-кыяямэ. Иннакя ляя тухлифуль-мии‘аад»*
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+### 2 шаг
+2.1 Произносится Ният [намерение]: *«Я намереваюсь выполнить два ракяата фарда утренней молитвы, делая это искренне ради Всевышнего»* 
+2.2 Произносится «такбир» (первый поднимаются руки): *«Аллаху акбар»*
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+### 3 шаг
+Читается открывающая «ас-Сана» [«Восхваление Всевышнего»] (правая рука кладётся на лёвую на уровне груди иди жевота):  
+*«Субхаанакял-лахумма ва бихамдикь, ва табааракясмукь, ва та‘аляя джаддукь, ва ляя иляяхэ гайрукь»*  
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rethoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
 
-### Overlaid the jeepers uselessly much excluding
+## Первый ракят
+### 1 шаг
+1.1 Читается открывающая молитва истифтах (правая рука кладётся на лёвую на уровне груди иди жевота):  
+*«Субхаанакял-лахумма ва бихамдикь, ва табааракясмукь, ва та‘аляя джаддукь, ва ляя иляяхэ гайрукь»*  
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+*«а‘уузу бил-ляяхи минаш-шайтоони рраджиим, бисмил-ляяхи ррахмаани ррахиим»* (произносится про себя)
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+Читается сура Аль-Фатиха:  
+*«Аль-хамду лил-ляяхи раббиль-‘аалямиин.  
+Ар-рахмаани ррахиим.  
+Мяялики яумид-диин.  
+Ийяякя на‘буду ва ийяякя наста‘иин.  
+Ихдина ссыраатоль-мустакыим.  
+Сыраатол-лязийна ан‘амта ‘аляйхим, гайриль-магдууби ‘аляйхим ва ляд-дооллиин»* 
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+*«Аамиин»* (произносится про себя)
 
-### According a funnily until pre-set or arrogant well cheerful
+1.2 Читается сура короткая или длинная:  
+*«Куль хува ллааху ахад. Аллааху ссомад. Лям ялид ва лям юуляд. Ва лям якул-ляху куфуван ахад»*
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+### 2 шаг
+2.1 Произносится «такбир» (второй раз поднимаются руки):  
+*«Аллаху акбар»*   
+2.2 Делает поясной поклон (ладони кладутся на колени, а спина паралельна земле) и произносит: 
+*«Субхаана раббияль-‘азыым»* (3 раза)
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+### 3 шаг
+3.1 Возвращается в прежнее положение и, поднимаясь, говорит (руки поднимаются третий раз как при такбире):  
+*«Сами‘а ллааху ли мэн хамидэхь»*  
+3.2 Выпрямившись, произносит (руки можно положить или на груди или опустить):  
+*«Раббанаа лякяль-хамд»*
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rethoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+### 4 шаг
+4.1 Молящийся со словами *«Аллаху акбар»* опускается для совершения земного поклона «суджуд/саджда» (руки желательно положить прежде колен)(голова находится немного впереди рук или между руками)(глаза открыты). 
+4.2 После того как молящийся принял данное положение, он говорит:  
+*«Субхаана раббияль-а‘ляя»* (3 раза)
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+### 5 шаг
+5.1 Со словами: 
+Молящийся поднимает голову произнося *«Аллаху акбар»*, потом – кисти рук, садится на левую ногу и задерживается в этом положении на некоторое время
+5.2 Cо словами «Аллаху акбар» молящийся опускается для совершения второго земного поклона и повторяет:  
+*«Субхаана раббияль-а‘ляя»* (3 раза)
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+### 6 шаг
+Поднимая сначала голову, затем – руки, а потом – колени, молящийся встает, говоря «Аллаху акбар» (руки поднимаются на уровне плеч), и принимает исходное положение.
 
-#### Silent delightfully including because before one up barring chameleon
+На этом заканчивается первый ракяат и начинается второй (правая рука кладётся на лёвую на уровне груди иди жевота).
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+## Второй ракят
+### 1 шаг
+Читается сура Аль-Фатиха:
+*«Бисмил-ляяхи ррахмаани ррахиим. 
+Аль-хамду лил-ляяхи раббиль-‘аалямиин.  
+Ар-рахмаани ррахиим.  
+Мяялики яумид-диин.  
+Ийяякя на‘буду ва ийяякя наста‘иин.  
+Ихдина ссыраатоль-мустакыим.  
+Сыраатол-лязийна ан‘амта ‘аляйхим, гайриль-магдууби ‘аляйхим ва ляд-дооллиин»*  
 
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+*«Аамиин»* (произносится про себя)
 
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rethoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
+### 2 шаг
+2.1 Произносится «такбир»:  
+*«Аллаху акбар»* 
+2.2 Делает поясной поклон (ладони кладутся на колени, а спина паралельна земле) и произносит: 
+*«Субхаана раббияль-‘азыым»* (3 раза)
 
-###### Slapped cozy a that lightheartedly and far
+### 3 шаг
+3.1 Возвращается в прежнее положение и, поднимаясь, говорит:  
+*«Сами‘а ллааху ли мэн хамидэхь»* 
+3.2 Выпрямившись, произносит:  
+*«Раббанаа лякяль-хамд»*
 
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+### 4 шаг
+4.1 Молящийся со словами *«Аллаху акбар»* опускается для совершения земного поклона  
+4.2 После того как молящийся принял данное положение, он говорит: *«Субхаана раббияль-а‘ляя»* (3 раза)
+
+### 5 шаг
+5.1 Со словами *«Аллаху акбар»* молящийся поднимает голову, потом – кисти рук, садится на левую ногу и задерживается в этом положении на некоторое время 
+5.2 Cо словами *«Аллаху акбар»* молящийся опускается для совершения второго земного поклона и повторяет:  
+*«Субхаана раббияль-а‘ляя»* (3 раза)
+
+### 6 шаг 
+После того как молящийся поднимается со второго земного поклона, он снова садится на левую ступню и читает «ташаххуд» (Ханафиты кладут руки свободно на бедра, не смыкая пальцев):  
+*«Ат-тахияяту лил-ляяхи вас-салаваату ват-тойибаат,  
+Ас-саляяму ‘аляйкя айюхан-набийю ва рахматул-лаахи ва баракяятухь,  
+Ас-саляяму ‘аляйнаа ва ‘аляя ‘ибаадил-ляяхи ссаалихийн,  
+Ашхаду алляя иляяхэ илля ллааху ва ашхаду анна мухаммадан ‘абдуху ва расуулюхь».*
+
+### 7 шаг 
+Молящийся произносит «такбир» (первый поднимаются руки): *«Аллаху акбар»* 
+
+
+## Третий ракят
+### 1 шаг 
+Читается сура Аль-Фатиха:
+*«Бисмил-ляяхи ррахмаани ррахиим. 
+Аль-хамду лил-ляяхи раббиль-‘аалямиин.  
+Ар-рахмаани ррахиим.  
+Мяялики яумид-диин.  
+Ийяякя на‘буду ва ийяякя наста‘иин.  
+Ихдина ссыраатоль-мустакыим.  
+Сыраатол-лязийна ан‘амта ‘аляйхим, гайриль-магдууби ‘аляйхим ва ляд-дооллиин»*  
+
+*«Аамиин»* (произносится про себя)
+
+Читается сура короткая или длинная:  
+*«Куль хува ллааху ахад. Аллааху ссомад. Лям ялид ва лям юуляд. Ва лям якул-ляху куфуван ахад»*
+
+### 2 шаг 
+2.1 Произносится «такбир»:  
+*«Аллаху акбар»* 
+2.2 Делает поясной поклон (ладони кладутся на колени, а спина паралельна земле) и произносит: 
+*«Субхаана раббияль-‘азыым»* (3 раза)
+
+### 3 шаг
+3.1 Возвращается в прежнее положение и, поднимаясь, говорит:  
+*«Сами‘а ллааху ли мэн хамидэхь»* 
+3.2 Выпрямившись, произносит:  
+*«Раббанаа лякяль-хамд»*
+
+### 4 шаг 
+4.1 Молящийся со словами *«Аллаху акбар»* опускается для совершения земного поклона  
+4.2 После того как молящийся принял данное положение, он говорит: *«Субхаана раббияль-а‘ляя»* (3 раза)
+
+### 5 шаг
+5.1 Со словами *«Аллаху акбар»* молящийся поднимает голову, потом – кисти рук и садится на левую ногу и произноситься Дуа:   *«Рабби-гфир ли, Рабби-гфир ли»*  
+5.2 Cо словами *«Аллаху акбар»* молящийся опускается для совершения второго земного поклона и повторяет:  
+*«Субхаана раббияль-а‘ляя»* (3 раза)
+
+### 6 шаг 
+Поднимая сначала голову, затем – руки, а потом – колени, молящийся встает, говоря «Аллаху акбар» (руки поднимаются на уровне плеч), и принимает исходное положение.
+
+На этом заканчивается третий ракяат и начинается четвёртый (правая рука кладётся на лёвую на уровне груди иди жевота).
+
+
+## Четвёртый ракят
+### 1 шаг 
+Читается сура Аль-Фатиха:
+*«Бисмил-ляяхи ррахмаани ррахиим. 
+Аль-хамду лил-ляяхи раббиль-‘аалямиин.  
+Ар-рахмаани ррахиим.  
+Мяялики яумид-диин.  
+Ийяякя на‘буду ва ийяякя наста‘иин.  
+Ихдина ссыраатоль-мустакыим.  
+Сыраатол-лязийна ан‘амта ‘аляйхим, гайриль-магдууби ‘аляйхим ва ляд-дооллиин»*  
+
+*«Аамиин»* (произносится про себя)
+
+
+### 2 шаг 
+2.1 Произносится «такбир»:  
+*«Аллаху акбар»* 
+2.2 Делает поясной поклон (ладони кладутся на колени, а спина паралельна земле) и произносит: 
+*«Субхаана раббияль-‘азыым»* (3 раза)
+
+### 3 шаг 
+3.1 Возвращается в прежнее положение и, поднимаясь, говорит:  
+*«Сами‘а ллааху ли мэн хамидэхь»* 
+3.2 Выпрямившись, произносит:  
+*«Раббанаа лякяль-хамд»*
+
+### 4 шаг 
+4.1 Молящийся со словами *«Аллаху акбар»* опускается для совершения земного поклона  
+4.2 После того как молящийся принял данное положение, он говорит: *«Субхаана раббияль-а‘ляя»* (3 раза)
+
+### 5 шаг 
+5.1 Со словами *«Аллаху акбар»* молящийся поднимает голову, потом – кисти рук, садится на левую ногу и задерживается в этом положении на некоторое время  
+5.2 Cо словами *«Аллаху акбар»* молящийся опускается для совершения второго земного поклона и повторяет:  
+*«Субхаана раббияль-а‘ляя»* (3 раза)
+
+### 6 шаг 
+После того как молящийся поднимается со второго земного поклона, он снова садится на левую ступню и читает «ташаххуд» (Ханафиты кладут руки свободно на бедра, не смыкая пальцев):  
+*«Ат-тахияяту лил-ляяхи вас-салаваату ват-тойибаат,  
+Ас-саляяму ‘аляйкя айюхан-набийю ва рахматул-лаахи ва баракяятухь,  
+Ас-саляяму ‘аляйнаа ва ‘аляя ‘ибаадил-ляяхи ссаалихийн,  
+Ашхаду алляя иляяхэ илля ллааху ва ашхаду анна мухаммадан ‘абдуху ва расуулюхь».*
+
+
+## Завершение молитвы
+### 1 шаг 
+не меняя своего положения, произносит «салават»:  
+*«Аллаахумма салли ‘аляя сайидинаа мухаммадин ва ‘аляя ээли сайидинаа мухаммад,  
+Кяма салляйтэ ‘аляя сайидинаа ибраахиима ва ‘аляя ээли сайидинаа ибраахиим,  
+Ва баарик ‘аляя сайидинаа мухаммадин ва ‘аляя ээли сайидинаа мухаммад,  
+Кямаа баарактэ ‘аляя сайидинаа ибраахиима ва ‘аляя ээли сайидинаа ибраахиима филь-‘аалямиин, иннэкя хамиидун маджиид»*  
+
+### 2 шаг 
+Без вознесения рук вверх читается Дуа:  
+*«Раббанаа ээтина фид-дуньяя хасанатан ва филь-аахырати хасанатан ва кынаа ‘азаабан-наар»*  
+
+### 3 шаг 
+3.1 Поворачивает голову в правую сторону и произносит: *«ас-саляяму ‘аляйкум ва рахматул-лаах»*, смотря на плечо  
+3.1 Поворачивает голову  левую сторону и произносит: *«ас-саляяму ‘аляйкум ва рахматул-лаах»*, смотря на левое плечо
+
+### 4 шаг 
+Воздев руки на уровень груди, молящийся говорит: 
+
+4.1 *«Астагфируллаа, астагфируллаа, астагфируллаа»*
+4.2 *«Аллаахумма энтэ ссаляям ва минкя ссаляям, табаарактэ яа заль-джаляяли валь-икраам. Аллаахумма а‘иннии ‘аля зикрикя ва щукрикя ва хусни ‘ибаадатикь»*
+
+Затем опускает руки, проводя ладонями по лицу
