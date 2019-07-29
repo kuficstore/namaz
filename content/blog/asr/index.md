@@ -1,10 +1,8 @@
 ---
 title: Аср
 date: "2017-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: 4 фард-ракаата (про себя)
 ---
-
-4 фард-ракаата (про себя)
 
 ### 1 шаг
 По окончании азана как читавший, так и слышавший его произносят «салават» и, воздев руки на уровень груди, обращаются ко Всевышнему с молитвой, традиционно читаемой после азана:
