@@ -24,9 +24,6 @@ const Bio = () => {
       site {
         siteMetadata {
           author
-          social {
-            twitter
-          }
         }
       }
     }
@@ -54,12 +51,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        Cервис и сопутсвующий маркетом товоров <strong><a href={`https://kufic.store`}>{author}</a></strong> поможет подготовиться и совершить молитву наилучшим образом.
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a>
       </p>
     </div>
   )

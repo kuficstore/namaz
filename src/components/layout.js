@@ -1,7 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import { rhythm, scale } from "../utils/typography"
 
 class Layout extends React.Component {
   render() {
@@ -13,8 +12,7 @@ class Layout extends React.Component {
       header = (
         <h1
           style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
+            marginBottom: `40px`,
             marginTop: 0,
           }}
         >
@@ -22,7 +20,7 @@ class Layout extends React.Component {
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
+              color: `inherit`
             }}
             to={`/`}
           >
@@ -34,15 +32,15 @@ class Layout extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: `Montserrat, sans-serif`,
+            fontFamily: `Prata, serif`,
             marginTop: 0,
+            color: `red`
           }}
         >
           <Link
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
             }}
             to={`/`}
           >
@@ -56,14 +54,15 @@ class Layout extends React.Component {
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          marginTop: `72px`,
+          marginbottom: `72px`,
+          maxWidth: '960px'
         }}
       >
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © Built with
+          © Товары для молитвы
           {` `}
           <a href="http://kufic.store">Kufic.Store</a>
         </footer>

@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Namaz`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    title: `متجر`,
+    author: `Kufic Store`,
+    description: `Kufic Store`,
     siteUrl: `https://competent-blackwell-d8c06f.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `Kufic Store`,
     },
   },
   plugins: [
