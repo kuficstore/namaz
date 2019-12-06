@@ -30,35 +30,15 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <h3
-          style={{
-            fontFamily: `Prata, serif`,
-            marginTop: 0,
-            color: `red`
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-            }}
-            to={`/`}
-          >
+        <h3 className="logo">
+          <Link to={`/`}>
             {title}
           </Link>
         </h3>
       )
     }
     return (
-      <div
-        style={{
-          marginLeft: `auto`,
-          marginRight: `auto`,
-          marginTop: `72px`,
-          marginbottom: `72px`,
-          maxWidth: '960px'
-        }}
-      >
+      <div className="container">
         <header>{header}</header>
         <main>{children}</main>
         <footer>
