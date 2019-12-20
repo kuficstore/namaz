@@ -8,6 +8,7 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
+import './store.css';
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -42,7 +43,7 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p>
+      <p className="store__description">
         Cервис и сопутсвующий маркетом товоров <strong><a href={`https://kufic.store`}>{author}</a></strong> поможет подготовиться и совершить молитву наилучшим образом.
       </p>
     </div>

@@ -1,0 +1,7 @@
+.store {
+  display: flex;
+}
+
+.store__description {
+  margin-left: 20px;
+}

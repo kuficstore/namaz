@@ -1,0 +1,25 @@
+* {
+  background: #fff;
+}
+
+.layout {
+  padding: 72px 0px;
+
+}
+
+.layout__container {
+  
+}
+
+.layout__header {
+  margin-bottom: 40px;
+}
+
+.layout__container {
+  max-width: 880px;
+  margin: auto;
+}
+
+.layout__footer {
+  margin-top: 96px;
+}

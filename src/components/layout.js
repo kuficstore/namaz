@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import './layout.css';
 
 
 class Layout extends React.Component {
@@ -38,14 +39,16 @@ class Layout extends React.Component {
       )
     }
     return (
-      <div className="container">
-        <header>{header}</header>
-        <main>{children}</main>
-        <footer>
-          © Товары для молитвы
-          {` `}
-          <a href="http://kufic.store">Kufic.Store</a>
-        </footer>
+      <div className="layout">
+        <div className="layout__container">
+          <header className="layout__header">{header}</header>
+          <main className="layout__main">{children}</main>
+          <footer className="layout__footer">
+            © Товары для молитвы
+            {` `}
+            <a href="http://kufic.store">Kufic.Store</a>
+          </footer>
+        </div>
       </div>
     )
   }
