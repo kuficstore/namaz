@@ -2,13 +2,18 @@
   background: #fff;
 }
 
+body {
+  font-family: 'PT Serif', serif;
+  font-size: 18px;
+}
+
+h1, h2, h3 {
+  font-family: 'PT Serif', serif;
+}
+
 .layout {
   padding: 72px 0px;
 
-}
-
-.layout__container {
-  
 }
 
 .layout__header {
@@ -17,9 +22,35 @@
 
 .layout__container {
   max-width: 880px;
+  padding: 0 20px;
   margin: auto;
 }
 
 .layout__footer {
   margin-top: 96px;
+}
+
+a {
+  color: #000 !important;
+  text-decoration: none;
+  box-shadow: none;
+}
+
+a:hover {
+  color: #0035EC !important;
+}
+
+.layout__name {
+  font-size: 72px;
+  
+}
+
+.layout__section {
+  padding: 40px 0px;
+  border-bottom: 1px solid #000;
+}
+
+
+.layout__more {
+  margin-top: 72px;
 }
