@@ -44,7 +44,7 @@ const Bio = () => {
         }}
       />
       <p className="store__description">
-        Cервис c cопутсвующим маркетом товоров <strong><a href={`https://kufic.store`}>{author}</a></strong> поможет подготовиться к намазу и его наилучшим образом.
+        Cервис c cопутсвующим маркетом товоров <strong><a href={`https://kufic.store`}>{author}</a></strong> поможет подготовиться к намазу и выполнить его наилучшим образом.
       </p>
     </div>
   )
