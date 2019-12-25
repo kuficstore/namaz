@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `نماز‎`,
+    title: `Как читать намаз. Руководство для начинающих.‎`,
     author: `Kufic Store`,
-    description: `Как читать намаз. Руководство для начинающих.`,
-    siteUrl: `https://competent-blackwell-d8c06f.netlify.com/`,
+    description: `Подготовка к молитве и выполнение её наилучшим образом.`,
+    siteUrl: `http://namaz.kufic.store`,
     social: {
       twitter: `Kufic Store`,
     },
@@ -57,12 +57,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Как читать намаз?`,
-        short_name: `Как читать намаз?`,
+        name: `Как читать намаз. Руководство для начинающих.`,
+        short_name: `Как читать намаз. Руководство для начинающих.`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#0035EC`,
-        display: `Kufic`,
+        display: `Kufic Store`,
         icon: `content/assets/gatsby-icon.png`,
       },
     },
