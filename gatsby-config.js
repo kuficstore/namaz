@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `نماز‎`,
     author: `Kufic Store`,
-    description: `Kufic Store`,
+    description: `Как читать намаз. Руководство для начинающих.`,
     siteUrl: `https://competent-blackwell-d8c06f.netlify.com/`,
     social: {
       twitter: `Kufic Store`,

@@ -49,7 +49,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:type`,
-          content: `namaz.kufic.store`,
+          content: `article`,
         },
         {
           name: `twitter:card`,
