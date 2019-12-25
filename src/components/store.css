@@ -1,7 +1,12 @@
 .store {
   display: flex;
+  align-items: center;
 }
 
 .store__description {
-  margin-left: 20px;
+  margin-left: 32px;
+}
+
+.store__link {
+  color: #0035EC !important;
 }

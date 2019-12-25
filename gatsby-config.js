@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `متجر`,
+    title: `نماز‎`,
     author: `Kufic Store`,
     description: `Kufic Store`,
     siteUrl: `https://competent-blackwell-d8c06f.netlify.com/`,

@@ -15,7 +15,7 @@ const Bio = () => {
     query BioQuery {
       avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
         childImageSharp {
-          fixed(width: 50, height: 50) {
+          fixed(width: 84, height: 84) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -36,16 +36,16 @@ const Bio = () => {
         alt={author}
         style={{
           marginBottom: 0,
-          minWidth: 50,
+          minWidth: 84,
           borderRadius: `100%`,
         }}
         imgStyle={{
           borderRadius: `50%`,
         }}
       />
-      <p className="store__description">
-        Cервис c cопутсвующим маркетом товоров <strong><a href={`https://kufic.store`}>{author}</a></strong> поможет подготовиться к намазу и выполнить его наилучшим образом.
-      </p>
+      <div className="store__description">
+        Cервис c cопутсвующим маркетом товоров <strong><a href={`https://kufic.store`} className="store__link">{author}</a></strong> поможет подготовиться к намазу и выполнить его наилучшим образом.
+      </div>
     </div>
   )
 }

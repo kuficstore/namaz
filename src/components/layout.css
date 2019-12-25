@@ -1,10 +1,11 @@
 body {
-  font-family: 'PT Serif', serif;
-  font-size: 18px;
+  font-family: Helvetica, Arial,  sans-serif;
+  font-size: 20px;
+  background-color: #fff;
 }
 
 h1, h2, h3 {
-  font-family: 'PT Serif', serif;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 .layout {
@@ -37,21 +38,25 @@ a {
 }
 
 a:hover {
-  color: #0035EC !important;
+  opacity: 0.8;
+  /* color: #0035EC !important; */
 
 }
 
 .layout__name {
-  font-size: 72px;
+  font-size: 92px;
   
 }
 
 .layout__section {
   padding: 40px 0px;
-  border-bottom: 1px solid #000;
+  border-bottom: 3px solid #000;
+}
+.layout__section:last-child {
+  border-bottom: none;
 }
 
 
 .layout__more {
-  margin-top: 72px;
+  margin-top: 96px;
 }
