@@ -75,7 +75,7 @@ function SEO({ description, lang, meta, title }) {
 SEO.defaultProps = {
   lang: `ru`,
   meta: [],
-  description: ``,
+  description: `Как читать намаз. Руководство для начинающих.`,
 }
 
 SEO.propTypes = {
