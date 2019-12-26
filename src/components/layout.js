@@ -20,8 +20,8 @@ class Layout extends React.Component {
     } else {
       header = (
         <h3 className="logo">
-          <Link to={`نماز`}>
-            {title}
+          <Link to={`/`}>
+            نماز
           </Link>
         </h3>
       )
