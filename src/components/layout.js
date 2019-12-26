@@ -11,28 +11,16 @@ class Layout extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
-        <h1
-          style={{
-            marginBottom: `40px`,
-            marginTop: 0,
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`
-            }}
-            to={`/`}
-          >
-            {title}
+        <h1 className="logo">
+          <Link className="logo__link" to={`/`}>
+            نماز
           </Link>
         </h1>
       )
     } else {
       header = (
         <h3 className="logo">
-          <Link to={`/`}>
+          <Link to={`نماز`}>
             {title}
           </Link>
         </h3>
