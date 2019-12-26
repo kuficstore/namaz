@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Как читать намаз. Руководство для начинающих.‎`,
-    author: `Kufic Store`,
+    author: `Куфическая Лавка`,
     description: `Подготовка к молитве и выполнение её наилучшим образом.`,
     siteUrl: `http://namaz.kufic.store`,
     social: {

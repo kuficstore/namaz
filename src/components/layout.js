@@ -11,19 +11,19 @@ class Layout extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
-        <h1 className="logo">
+        <div className="logo">
           <Link className="logo__link" to={`/`}>
             نماز
           </Link>
-        </h1>
+        </div>
       )
     } else {
       header = (
-        <h3 className="logo">
+        <div className="logo">
           <Link to={`/`}>
             نماز
           </Link>
-        </h3>
+        </div>
       )
     }
     return (
@@ -32,9 +32,9 @@ class Layout extends React.Component {
           <header className="layout__header">{header}</header>
           <main className="layout__main">{children}</main>
           <footer className="layout__footer">
-            © Товары для молитвы
+            ©
             {` `}
-            <a href="http://kufic.store">Kufic.Store</a>
+            <a href="http://kufic.store">Kufic Store</a>
           </footer>
         </div>
       </div>

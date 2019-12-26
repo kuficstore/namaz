@@ -1,6 +1,8 @@
 .store {
   display: flex;
   align-items: center;
+  margin-bottom: 32px;
+  margin-top: 96px;
 }
 
 .store__description {
