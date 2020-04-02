@@ -1,7 +1,8 @@
 body {
   font-family: Helvetica, Arial,  sans-serif;
   font-size: 20px;
-  background-color: #fff;
+  background-color: #002d72;
+  color: #fff;
 }
 
 h1, h2, h3 {
@@ -52,7 +53,7 @@ em {
 }
 
 a {
-  color: #000 !important;
+  color: #fff !important;
   text-decoration: none;
   box-shadow: none;
 }
@@ -69,7 +70,7 @@ a:hover {
 
 .layout__section {
   padding: 40px 0px;
-  border-bottom: 3px solid #000;
+  border-bottom: 3px solid #fff;
 }
 
 .layout__section:first-child {
@@ -83,7 +84,7 @@ a:hover {
 
 .layout__more {
   margin-top: 96px;
-  color: #0035EC;
+  color: #3ccdba;
 }
 
 

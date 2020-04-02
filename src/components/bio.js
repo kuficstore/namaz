@@ -31,21 +31,6 @@ const Bio = () => {
   const { author, social } = data.site.siteMetadata
   return (
     <div className="store">
-      <Image
-        fixed={data.avatar.childImageSharp.fixed}
-        alt={author}
-        style={{
-          marginBottom: 0,
-          minWidth: 84,
-          borderRadius: `100%`,
-        }}
-        imgStyle={{
-          borderRadius: `50%`,
-        }}
-      />
-      <div className="store__description">
-        Cервис c cопутсвующим маркетом товоров <strong><a href={`https://kufic.store`} className="store__link">«{author}»</a></strong> поможет подготовиться к намазу и выполнить его наилучшим образом.
-      </div>
     </div>
   )
 }
