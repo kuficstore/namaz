@@ -1,12 +1,15 @@
 body {
   font-family: Helvetica, Arial,  sans-serif;
-  font-size: 20px;
+  font-family: 'Spectral Regular';
+  font-size: 24px;
+  line-height: 36px;
   background-color: #002d72;
   color: #fff;
 }
 
 h1, h2, h3 {
   font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Spectral Light';
 }
 
 h1 {
@@ -22,7 +25,8 @@ h3 {
 }
 
 em {
-  font-weight: 600;
+  font-style: normal;
+  font-family: 'Spectral Medium Italic';
 }
 
 .logo {
